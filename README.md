@@ -1,6 +1,6 @@
 # Masternode Setup Guide
 
-wget -q https://raw.githubusercontent.com/UfyCoin/MN_Script/blob/master/masternodeinstall.sh
+wget -q https://raw.githubusercontent.com/UfyCoin/MN_Script/master/masternodeinstall.sh
 
 sudo chmod +x masternodeinstall.sh
 
