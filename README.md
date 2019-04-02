@@ -1,5 +1,9 @@
 # Masternode Setup Guide
 
+If you have old scrip, you have to remove it first for updated wallet installation.
+
+rm masternodeinstall.sh
+
 wget -q https://raw.githubusercontent.com/UfyCoin/MN_Script/master/masternodeinstall.sh
 
 sudo chmod +x masternodeinstall.sh
